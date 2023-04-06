@@ -1,6 +1,6 @@
 # Loader
 
-Experimenting with css
+Experimenting with css to create a good animated loader
 
 Link : https://killertian.github.io/Loader/
 
