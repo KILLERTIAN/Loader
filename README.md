@@ -1,8 +1,8 @@
 # Loader
 
-Experimenting with css to create a good animated loader
+Experimenting with CSS to create a good animated loader
 
-Link : https://killertian.github.io/Loader/
+Webpage link : https://killertian.github.io/Loader/
 
 # License
 
